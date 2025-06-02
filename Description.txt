@@ -1,0 +1,18 @@
+[Instructions]
+Use Kaggle Face Shape Datasets + Korean celeb Face Shape Datasets
+
+[Face Shape]
+1. Oval
+2. Oblong
+3. Round
+4. Square
+
+except Heart
+
+[Number of Datasets]
+1,138 images in Oval type
+1,159 images in Oblong type
+1,197 images in Square type
+1,209 images in Round type
+
+total = 4,703
