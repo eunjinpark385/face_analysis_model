@@ -4,6 +4,5 @@ Preprocessing FaceShape Dataset/
 test/
 train/
 validation/
-model.png
 Image_preprocessing.md
 rcmalli_vggface_tf_notop_vgg16.h5
