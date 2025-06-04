@@ -31,8 +31,8 @@ Download : https://www.kaggle.com/datasets/niten19/face-shape-dataset
 - 모델을 tflite 변환
 
 # Model Structure
-<img src='model.png'>
+<img src='img/model.png'>
 
 # Train Result
-<img src='output.png'>
+<img src='img/output.png'>
 모든 클래스에서 약 90%의 정확도를 보임
